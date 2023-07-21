@@ -1,0 +1,13 @@
+/* CSS STYLING  */
+
+body {
+  background-color: azure;
+}
+
+#Update {
+  display: none;
+}
+
+tr:nth-child(even) {
+  color: blue;
+}
