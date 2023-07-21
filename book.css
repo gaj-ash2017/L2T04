@@ -1,13 +1,16 @@
 /* CSS STYLING  */
 
+/* BODY STYLING */
 body {
   background-color: azure;
 }
 
+/* UPDATE STYLING */
 #Update {
   display: none;
 }
 
+/* DISPLAYS ROW COLORS FOR EACH EVEN ROW */
 tr:nth-child(even) {
   color: blue;
 }
